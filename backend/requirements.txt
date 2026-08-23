@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+pydantic
+starlette
+passlib[bcrypt]
+python-jose
+python-whois
+requests
