@@ -1,6 +1,14 @@
 # CyberHub AI
 
-CyberHub AI is an intelligent platform designed for phishing detection, link scanning, and cyber risk assessment. It leverages a modern tech stack to provide an intuitive dashboard for users while running sophisticated machine learning models on the backend.
+CyberHub AI is a next-generation cybersecurity platform designed to proactively identify, analyze, and mitigate cyber threats. At its core, the platform provides advanced **phishing detection**, **malicious link scanning**, and **real-time cyber risk assessment**. 
+
+By combining a sleek, modern user interface with a powerful, machine learning-driven backend, CyberHub AI empowers users to browse and interact with digital content securely. The system leverages custom-trained AI models to extract features from URLs, assess behavioral risk patterns, and perform external verification checks—acting as a comprehensive shield against modern cyber attacks.
+
+### Key Features
+- **Intelligent Link Scanner**: Instantly analyze URLs for phishing indicators and malicious intent using trained ML models.
+- **Dynamic Risk Engine**: Calculate comprehensive risk scores based on URL features, domain reputation, and historical threat data.
+- **Interactive Dashboard**: A responsive, React/Next.js-based frontend providing users with detailed scan reports, history, and real-time alerts.
+- **Robust API**: A high-performance FastAPI backend facilitating secure authentication, fast database queries, and seamless communication with the AI engine.
 
 ## Architecture & Structure
 
